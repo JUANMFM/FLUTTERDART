@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Capturas de pantalla
 
 ### Pantalla principal
-![Pantalla principal de la aplicación](https://imgur.com/ywXQeA1)
+[Imgur](https://i.imgur.com/ymOJbIe.png)
 
 ### Otra vista de la aplicación
 ![Vista alternativa de la aplicación](https://imgur.com/46X0P0U)
