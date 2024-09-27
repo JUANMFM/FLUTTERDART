@@ -19,28 +19,28 @@ samples, guidance on mobile development, and a full API reference.
 ## Capturas de pantalla
 
 ### Pantalla principal
-![Imgur](https://i.imgur.com/ymOJbIe.png)
+![Imgur](https://i.imgur.com/ywXQeA1.png)
 
 ### Otra vista de la aplicación
-![Vista alternativa de la aplicación](https://imgur.com/46X0P0U)
+![Imgur](https://i.imgur.com/46X0P0U.png)
 
 ### Ejemplo de una funcionalidad
-![Ejemplo de una funcionalidad específica](https://imgur.com/iehid0R)
+![Imgur](https://i.imgur.com/iehid0R.png)
 
 ### Otra captura interesante
-![Otra captura interesante de la aplicación](https://imgur.com/c6qw2CC)
+![Imgur](https://i.imgur.com/c6qw2CC.png)
 
 ### Vista de la configuración
-![Vista de la configuración de la aplicación](https://imgur.com/YrjCiWw)
+![Imgur](https://i.imgur.com/YrjCiWw.png)
 
 ### Ejemplo de un diseño
-![Ejemplo de un diseño particular](https://imgur.com/mEN0kqu)
+![Imgur](https://i.imgur.com/mEN0kqu.png)
 
 ### Vista de un elemento específico
-![Vista de un elemento específico de la interfaz](https://imgur.com/V58bDYn)
+![Imgur](https://i.imgur.com/V58bDYn.png)
 
 ### Otra captura relevante
-![Otra captura relevante para la aplicación](https://imgur.com/ymOJbIe)
+![Imgur](https://i.imgur.com/ymOJbIe.png)
 
 ## Características principales
 
